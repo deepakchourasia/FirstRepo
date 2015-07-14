@@ -1,4 +1,4 @@
-//new Program by DC 1
+//new Program by DC 2
 public class HelloWorld {
 
 	public static void main(String[] args) {
