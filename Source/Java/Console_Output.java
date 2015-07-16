@@ -1,4 +1,6 @@
-//my master comment
+
+//my first comment
+
 import java.util.Scanner;
 
 
