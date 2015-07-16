@@ -2,7 +2,7 @@
 //my first comment
 
 import java.util.Scanner;
-
+//my master comment
 
 public class Console_Input {
 
