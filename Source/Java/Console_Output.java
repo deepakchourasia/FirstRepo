@@ -1,5 +1,5 @@
 
-//my first comment
+//my first repo comment 
 
 import java.util.Scanner;
 //my master comment
@@ -24,3 +24,4 @@ public class Console_Input {
 		}
 	}
 }
+//my test comment
