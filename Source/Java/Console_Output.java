@@ -2,7 +2,7 @@
 //my first repo comment 
 //my test repo comment
 import java.util.Scanner;
-//my master comment
+//my test comment
 
 public class Console_Input {
 
