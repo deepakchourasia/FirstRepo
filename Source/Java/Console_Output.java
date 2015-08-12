@@ -2,7 +2,7 @@
 //my first repo comment 
 //my test repo comment
 import java.util.Scanner;
-//my fetch comment 
+//my fetch comment for test repo
 
 public class Console_Input {
 
